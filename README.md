@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanekhan
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects to learn and get more skilled 
+- 👀 I’m interested in Frontend engineering
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Frontend projects to learn and get more skilled 
 - ⚡ Fun fact: There's no fun 
 
 <!---
