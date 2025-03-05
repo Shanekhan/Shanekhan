@@ -5,7 +5,7 @@
 🛠 Skilled in **HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap & Python**. 
 🌱 Always learning new technologies and improving my skills.  
 📂 Check out my projects on **[GitHub](https://github.com/Shanekhan)**.  
-📫 Connect with me on **[LinkedIn](www.linkedin.com/in/shanzaykhan-webdev)**.  
+📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shanzaykhan-webdev/)**.  
 
 
 ⭐ **"Code, Learn, Build, Repeat!"**  
