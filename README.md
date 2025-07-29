@@ -1,18 +1,13 @@
- 👋 Hi, I'm Shanzay Khan!  
-🚀 Frontend & React.js Developer | Python Enthusiast  
+👋 Hi, I’m Shanzay Khan  a Data Analyst building my way into Data Science.
 
-💻 Passionate about creating interactive and responsive web applications.  
-🛠 Skilled in **HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap & Python**. 
-🌱 Always learning new technologies and improving my skills.  
-📂 Check out my projects on **[GitHub](https://github.com/Shanekhan)**.  
-📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shanzaykhan-webdev/)**.  
+📊 I’ve worked on real-world analytics projects using SQL, Python, Tableau & Google Sheets including a full startup funding trends analysis from 2000–2022.
 
+🧠 Currently learning advanced data science skills (machine learning, predictive modeling) and strengthening my Python & statistical foundations.
 
-⭐ **"Code, Learn, Build, Repeat!"**  
+💼 I’ve completed the Google Data Analytics Certificate and a Deloitte virtual internship in analytics.
 
+📂 Latest project:  
+➡️ [Startup Funding Analysis](https://github.com/Shanekhan/startup-funding-analysis)
 
-
-<!---
-Shanekhan/Shanekhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/shanzaykhan-/) | shanzaykhan3002@gmail.com
