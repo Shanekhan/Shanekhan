@@ -4,12 +4,12 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ5b3V5ZTc0bWludnRzbnBwOWd0dGQ1NTJ2czY2ZzBvOXZxNzJ4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="170" />
 
-# 🌸 Hey, I'm **Shanzay** — Data Girl in Her Analytics Era ✨📊
+# 🌸 Hey, I'm **Shanzay** Data Girl in Her Analytics Era ✨📊
 
 **Aspiring Data Analyst → Future Data Scientist**
 
 I turn messy data into **clean stories**, build **predictive models**, and design dashboards that *look cute AND make sense*.
-Just wrapped up the **Google Advanced Data Analytics** program — now in my ML + Statistics + Storytelling era.
+Just wrapped up the **Google Advanced Data Analytics** program now in my ML + Statistics + Storytelling era.
 
 </div>
 
@@ -84,7 +84,7 @@ Just wrapped up the **Google Advanced Data Analytics** program — now in my ML 
 
 ---
 
-## 💌 Contact
+## Contact
 
 📧 **Email:** [shanzaykhan3002@gmail.com](mailto:shanzaykhan3002@gmail.com)
 🔗 **LinkedIn:** [www.linkedin.com/in/shanzaykhan-/](http://www.linkedin.com/in/shanzaykhan-/)
