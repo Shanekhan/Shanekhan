@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://i.imgur.com/your-new-banner-image-link-here.png" alt="Welcome to Shanzay's Data Lab - Cracking the Code, One Dataset at a Time" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyb2JkbHpwamx5cGEyZ3N5ZmtxNW9oZnFyejJ4MGZ5eHRxazB0aiZlcD12MV9naWZzX2NhdHVyZV9nZW5lcmF0ZWQmY3Q9Zw/2WxWwghqlEFSA/giphy.gif" width="180" />
 
   # 🚀 Hey there, I'm **Shanzay** – Your Data & Tech Alchemist! ✨
