@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Shanekhan/Shanekhan/blob/main/img.jpg" alt="Welcome to Shanzay's Data Lab - Cracking the Code, One Dataset at a Tim width="auto" />
+  <img src="https://github.com/Shanekhan/Shanekhan/blob/main/img.jpg" alt="Welcome to Shanzay's Data Lab - Cracking the Code, One Dataset at a Tim width="80%" />
 </div>
 
 <div align="center">
