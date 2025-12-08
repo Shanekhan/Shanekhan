@@ -47,8 +47,7 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 ### **Visualization & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+ <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git,github" />
 </p>
 
 
@@ -98,22 +97,8 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 - Practicing end-to-end workflows  
 
 ---
-# 📈 GitHub Analytics (Dark Theme)
 
-<p align="center">
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=shan-e-khan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan-e-khan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" 
-       src="https://streak-stats.demolab.com?user=Shanekhan&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🤝 Connect With Me
 
