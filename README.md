@@ -1,100 +1,104 @@
-<div align="center">
-  <img src="https://github.com/Shanekhan/Shanekhan/blob/main/img.jpg" alt="Welcome to Shanzay's Data Lab - Cracking the Code, One Dataset at a Tim width="80%" />
-</div>
+<!-- ======================= CLEAN MINIMAL BANNER ======================= -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bfff&text=Shanzay%20Khan&height=120&fontSize=60&desc=Data%20Science%20Graduate%20Student%20%7C%20ML%20Researcher&descAlignY=75&descAlign=50" />
+</p>
 
-  # 🚀 Hey there, I'm **Shanzay** – Your Data & Tech Alchemist! ✨
-
-  **Aspiring Data Analyst → Future Data Scientist**
-  
-  Welcome to my digital lab where I turn messy data into **clean stories**, build **predictive models**, and design dashboards that *don't just inform, they mesmerize*. 🌌 Fresh off the **Google Advanced Data Analytics** program, now mastering ML, statistics, and the art of impactful data storytelling. Let's engineer some insights! 📊
-</div>
+<p align="center">
+A Data Science graduate student & research assistant passionate about Machine Learning, Deep Learning, and Research-driven analytics.
+</p>
 
 ---
 
-## 🔮 What I Do – My Tech Spells & Data Magic
+## 👋 About Me
+- 🎓 Master's student in Data Science  
+- 🔬 Research Assistant working on ML-driven projects  
+- 🤖 Interested in applied ML, model optimization & explainability  
+- 📊 Love transforming raw data into clear insights & visual stories  
+- 🌱 Currently mastering Transformer Models, Deep Learning & MLOps  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgzZ25wZWo2eWF1dG9uMGRhZGRld2RnbW13MnAweWVkdGZmcTBydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUOjLwV0PjW/giphy.gif" width="40" align="right" />
-
-* ✨ **Data Purification:** Cleaning & validating chaotic datasets (because data is *never* clean, am I right? 😭).
-* 📈 **Model Manifestation:** Building & evaluating cutting-edge ML models — Regression, Classification, Tree-based, you name it!
-* 🎨 **Dashboard Alchemy:** Creating aesthetic yet profoundly meaningful Tableau dashboards that speak volumes.
-* 🗣️ **Concept Translation:** Breaking down complex technical concepts into visuals and narratives humans actually *get*.
-* 🔍 **Exploratory Quests:** Diving deep into datasets like it's the ultimate puzzle I *must* decode.
-
----
-
-## 🧠 My Cyber-Toolbox
-
-### **📊 Data Analysis & Statistical Sorcery**
-
-* EDA (Exploratory Data Analysis)
-* Hypothesis Testing & A/B Testing
-* Probability & Sampling Techniques
-* Regression (Linear, Logistic, Regularized)
-
-### **🤖 Machine Learning Wizardry**
-
-* Decision Trees / CART
-* Random Forests & Ensemble Methods
-* Feature Engineering & Selection
-* Model Evaluation & Validation Metrics
-
-### **🐍 Programming & Platform Power-Ups**
-
-* **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-* **SQL:** The backbone of data management
-* **Tableau:** My canvas for visual storytelling
-* **Jupyter Notebook:** Where ideas come to life!
-* **Git & GitHub:** Version control, because magic needs to be tracked!
-
-### **🗣 Professional Superpowers**
-
-* Data Storytelling & Presentation
-* Stakeholder Communication & Collaboration
-* Problem-Solving & Critical Thinking
-* Documentation & Knowledge Sharing
-
----
-                  
-## 🎓 My Certified Glow-Up
-
-### **Google Advanced Data Analytics** 🌟
-
-💡 ML Principles • Predictive Modeling • Statistics • Python • Data Visualization
-
-### **Google Data Analytics** 💡
-
-💡 Data Cleaning • R Programming • Visualization • SQL Foundations
-
-### **Extra Perks** 🎁
-
-💼 Deloitte Data Analytics Job Simulation (Completed!)
-🌐 Web Dev Basics (Git, VS Code)
-📝 Microsoft Office Suite (Certified Productivity Pro!)
+📫 **Email:** **shanzaykhan3002@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shanzaykhan-/
 
 ---
 
-## 🧰 My Current Tech Stack Crush
+# 🛠️ Languages & Tools
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtoc3Rtd203NnJmcXoyc2g3aWoyczBpaW9kbW5ucTJsYWhld2F2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JUwRzV56xG6S3Jj3uN/giphy.gif" width="80" align="right" />
+### **Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
 
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `SQL`
-`Tableau` `Jupyter Notebook` `Git` `GitHub` `VS Code`
+### **Data & ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+</p>
+
+### **Visualization & Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau,github,vscode,git" />
+</p>
 
 ---
 
-## Let's Connect & Build the Future! 🤝
+# 💡 Skills Summary
 
-📧 **Email:** [shanzaykhan3002@gmail.com](mailto:shanzaykhan3002@gmail.com) (Drop me a line!)
-🔗 **LinkedIn:** [www.linkedin.com/in/shanzaykhan-/](http://www.linkedin.com/in/shanzaykhan-/) (Let's connect & innovate!)
+### **📊 Data Analysis & Statistics**
+- EDA (Exploratory Data Analysis)  
+- Hypothesis Testing  
+- Regression Models  
+- Probability & Sampling  
+
+### **🤖 Machine Learning**
+- Classification & Regression  
+- Decision Trees & Ensemble Models  
+- Feature Engineering  
+- Model Validation & Metrics  
+
+### **📌 Professional Skills**
+- Research Writing & Presentation  
+- Data Storytelling  
+- Clean Coding (PEP 8)  
+- Stakeholder Communication  
 
 ---
 
-<div align="center">
+# 🎓 Certifications
+- **Google Advanced Data Analytics**  
+- **Google Data Analytics**  
+- Deloitte Data Analytics Job Simulation  
+- Microsoft Office Productivity Certification  
+- Web Development Essentials (Git, VS Code)
 
-⭐ *Fueling my journey with curiosity, code, and coffee.* ☕📚✨
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ3d3N5OWJ4aXp5anBsbDhoejA2cTVzbDVzNGd3bXNpdWN0dWc3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200" />
+---
 
-</div>
+# 🔥 GitHub Stats (Dark Mode)
+
+<p align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanekhan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanekhan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanekhan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Current Focus
+- Portfolio ML models  
+- Research contributions  
+- Learning MLOps pipelines  
+- Improving deep learning fundamentals  
+
+---
+
+# 🤝 Let's Connect
+📧 **Email:** **shanzaykhan3002@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shanzaykhan-/  
+
+---
