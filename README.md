@@ -28,38 +28,39 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 ---
 
-# 🛠️ Toolbox (Expanded Icons Only)
+# 🛠️ Toolbox (All Icons Render Correctly)
 
 ### **Programming**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 </p>
 
 ### **Data, ML & Analytics**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-Learn" />
 </p>
 
 ### **Databases**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 </p>
 
 ### **Visualization & Tools**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
+
 
 
 
