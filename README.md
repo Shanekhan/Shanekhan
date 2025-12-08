@@ -1,7 +1,7 @@
 <!-- ======================= DARK FUTURISTIC BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Graduate%20Student%20%7C%20ML%20Researcher&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Data%20Science%20Learner%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=20" />
 </p>
 
 ---
@@ -10,34 +10,34 @@
 
 # 👋 Hey, I'm **Shanzay**
 
-**Data Science Graduate Student • ML & AI Research Enthusiast**
+**Self-Taught Data Science Learner • Machine Learning Enthusiast**
 
-I explore data, analyze patterns, build predictive models, and work on research-driven machine learning projects.  
-Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
+Learning through hands-on projects, real datasets, and continuous improvement.  
+Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 </div>
 
 ---
 
 # 🔍 What I Do
-- **Data Analysis & Cleaning:** Turning raw, messy datasets into structured, ready-to-model data  
-- **ML Model Development:** Regression, Classification, Tree-Based Models, Ensemble Methods  
-- **Visual Analytics:** Clear and meaningful dashboards & visual stories  
-- **Research & Documentation:** Academic-level reporting, structured methodologies, clear communication  
-- **Project Execution:** From EDA → Modeling → Evaluation → Insights
+- **Data Cleaning & EDA:** Transforming raw data into clear insights  
+- **Machine Learning:** Building & evaluating predictive models  
+- **Visualization:** Structured charts & dashboards  
+- **End-to-End Projects:** From problem → EDA → modeling → insights  
+- **Self-Learning:** Advancing skills through practice & consistency  
 
 ---
 
-# 🧰 Toolbox (Icons Only)
+# 🛠️ Toolbox (Expanded Icons Only)
 
-### **Programming & Data Work**
+### **Programming**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,git,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react" />
 </p>
 
-### **Machine Learning & AI**
+### **Data, ML & Analytics**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 ### **Databases**
@@ -47,7 +47,7 @@ Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
 
 ### **Visualization & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau" />
+  <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git,github" />
 </p>
 
 ---
@@ -55,45 +55,46 @@ Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
 # 📊 Technical Skills
 
 ### **Data Analytics & Statistics**
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis  
+- Data Cleaning & Wrangling  
 - Hypothesis Testing  
-- Statistical Modeling  
-- Regression (Linear, Logistic, Regularized)  
+- Regression Models  
 
 ### **Machine Learning**
-- Decision Trees & Ensembles  
-- Random Forest, XGBoost  
-- Feature Engineering & Selection  
-- Model Evaluation & Validation  
+- Classification & Regression  
+- Tree-Based Models  
+- Feature Engineering  
+- Model Evaluation (Accuracy, F1, ROC, etc.)  
 
 ### **Core Strengths**
-- Research Writing  
-- Data Storytelling  
+- Self-Learning Discipline  
+- Breaking Down Concepts Clearly  
 - Clean, Reproducible Code  
-- Stakeholder Communication  
+- Interpretation & Insight Building  
 
 ---
 
 # 🎓 Certifications
 
 ### **Google Advanced Data Analytics**
-- Machine Learning • Predictive Modeling • Python • Statistics • Visualization  
+- ML • Predictive Modeling • Python • Statistics  
 
 ### **Google Data Analytics**
-- R • SQL • Data Cleaning • Dashboarding  
+- SQL • R • Data Cleaning • Visualization  
 
 ### **Additional**
 - Deloitte Data Analytics Job Simulation  
 - Microsoft Productivity Certification  
-- Web Development Basics (Git, VS Code)
+- Web Dev Basics (Git, VS Code)
 
 ---
 
 # ⚡ Current Focus
-- Building new ML portfolio projects  
-- Research-based ML methodology  
-- Strengthening Deep Learning foundations  
-- Learning MLOps & production-level workflows  
+- ML portfolio projects  
+- Strengthening Python & SQL  
+- Learning Deep Learning basics  
+- Improving Tableau dashboards  
+- Practicing end-to-end workflows  
 
 ---
 
@@ -101,6 +102,7 @@ Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanekhan&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanekhan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -118,6 +120,5 @@ Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
 ---
 
 <p align="center">
-⭐ Driven by curiosity, discipline, and a deep love for data.
+⭐ Always learning. Always improving. Always building.
 </p>
-
