@@ -1,86 +1,107 @@
-<!-- ======================= CLEAN MINIMAL BANNER ======================= -->
+<!-- ======================= DARK FUTURISTIC BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bfff&text=Shanzay%20Khan&height=120&fontSize=60&desc=Data%20Science%20Graduate%20Student%20%7C%20ML%20Researcher&descAlignY=75&descAlign=50" />
-</p>
-
-<p align="center">
-A Data Science graduate student & research assistant passionate about Machine Learning, Deep Learning, and Research-driven analytics.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Graduate%20Student%20%7C%20ML%20Researcher&descAlignY=60&descSize=20" />
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 Master's student in Data Science  
-- 🔬 Research Assistant working on ML-driven projects  
-- 🤖 Interested in applied ML, model optimization & explainability  
-- 📊 Love transforming raw data into clear insights & visual stories  
-- 🌱 Currently mastering Transformer Models, Deep Learning & MLOps  
+<div align="center">
 
-📫 **Email:** **shanzaykhan3002@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shanzaykhan-/
+# 👋 Hey, I'm **Shanzay**
 
----
+**Data Science Graduate Student • ML & AI Research Enthusiast**
 
-# 🛠️ Languages & Tools
+I explore data, analyze patterns, build predictive models, and work on research-driven machine learning projects.  
+Currently focused on **Advanced ML**, **Deep Learning**, and **MLOps**.
 
-### **Programming**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
-
-### **Data & ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
-</p>
-
-### **Visualization & Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=tableau,github,vscode,git" />
-</p>
+</div>
 
 ---
 
-# 💡 Skills Summary
+# 🔍 What I Do
+- **Data Analysis & Cleaning:** Turning raw, messy datasets into structured, ready-to-model data  
+- **ML Model Development:** Regression, Classification, Tree-Based Models, Ensemble Methods  
+- **Visual Analytics:** Clear and meaningful dashboards & visual stories  
+- **Research & Documentation:** Academic-level reporting, structured methodologies, clear communication  
+- **Project Execution:** From EDA → Modeling → Evaluation → Insights
 
-### **📊 Data Analysis & Statistics**
-- EDA (Exploratory Data Analysis)  
+---
+
+# 🧰 Toolbox (Icons Only)
+
+### **Programming & Data Work**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,github,git,vscode,jupyter" />
+</p>
+
+### **Machine Learning & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### **Visualization & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tableau" />
+</p>
+
+---
+
+# 📊 Technical Skills
+
+### **Data Analytics & Statistics**
+- Exploratory Data Analysis (EDA)  
 - Hypothesis Testing  
-- Regression Models  
-- Probability & Sampling  
+- Statistical Modeling  
+- Regression (Linear, Logistic, Regularized)  
 
-### **🤖 Machine Learning**
-- Classification & Regression  
-- Decision Trees & Ensemble Models  
-- Feature Engineering  
-- Model Validation & Metrics  
+### **Machine Learning**
+- Decision Trees & Ensembles  
+- Random Forest, XGBoost  
+- Feature Engineering & Selection  
+- Model Evaluation & Validation  
 
-### **📌 Professional Skills**
-- Research Writing & Presentation  
+### **Core Strengths**
+- Research Writing  
 - Data Storytelling  
-- Clean Coding (PEP 8)  
+- Clean, Reproducible Code  
 - Stakeholder Communication  
 
 ---
 
 # 🎓 Certifications
-- **Google Advanced Data Analytics**  
-- **Google Data Analytics**  
+
+### **Google Advanced Data Analytics**
+- Machine Learning • Predictive Modeling • Python • Statistics • Visualization  
+
+### **Google Data Analytics**
+- R • SQL • Data Cleaning • Dashboarding  
+
+### **Additional**
 - Deloitte Data Analytics Job Simulation  
-- Microsoft Office Productivity Certification  
-- Web Development Essentials (Git, VS Code)
+- Microsoft Productivity Certification  
+- Web Development Basics (Git, VS Code)
 
 ---
 
-# 🔥 GitHub Stats (Dark Mode)
+# ⚡ Current Focus
+- Building new ML portfolio projects  
+- Research-based ML methodology  
+- Strengthening Deep Learning foundations  
+- Learning MLOps & production-level workflows  
+
+---
+
+# 📈 GitHub Analytics (Dark Theme)
 
 <p align="center">
-
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanekhan&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanekhan&layout=compact&theme=tokyonight&hide_border=true" />
-
 </p>
 
 <p align="center">
@@ -89,16 +110,14 @@ A Data Science graduate student & research assistant passionate about Machine Le
 
 ---
 
-# 🚀 Current Focus
-- Portfolio ML models  
-- Research contributions  
-- Learning MLOps pipelines  
-- Improving deep learning fundamentals  
+# 🤝 Connect With Me
+
+📧 Email: **shanzaykhan3002@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/shanzaykhan-/**  
 
 ---
 
-# 🤝 Let's Connect
-📧 **Email:** **shanzaykhan3002@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shanzaykhan-/  
+<p align="center">
+⭐ Driven by curiosity, discipline, and a deep love for data.
+</p>
 
----
