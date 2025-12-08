@@ -32,23 +32,35 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 ### **Programming**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" />
 </p>
 
 ### **Data, ML & Analytics**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" width="40" />
 </p>
 
 ### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" />
 </p>
 
 ### **Visualization & Tools**
 <p align="left">
- <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git,github" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40" />
 </p>
+
 
 
 ---
