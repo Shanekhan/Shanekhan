@@ -47,8 +47,10 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 ### **Visualization & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
 </p>
+
 
 ---
 
@@ -108,7 +110,7 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 
 <p align="center">
   <img height="160" 
-       src="https://streak-stats.demolab.com?user=shan-e-khan&theme=tokyonight&hide_border=true" />
+       src="https://streak-stats.demolab.com?user=Shanekhan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
