@@ -1,64 +1,124 @@
-<!-- ====== TOP BANNER ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=180&section=header&text=Shanzay%20|%20Self-Learner&fontColor=ffffff&fontSize=38&animation=fadeIn" />
-</p>
-
-<br>
-
-# 👋 Hi, I'm Shanzay  
-A **self-taught learner** exploring Data, Development, and Tools that help build real-world solutions.  
-No degree, no formal background — just **learning by doing**.
-
----
-
-## 🚀 Tools & Technologies I Use  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sql" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tableau" height="48"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
-  <img src="https://skillicons.dev/icons?i=html" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48"/>
-</p>
-
----
-
-## 📊 GitHub Analytics (Dark Theme — Fixed & Working)
-<p align="left">
-
-  <!-- Streak (Dark Mode Working Image) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=yourusername&theme=highcontrast&hide_border=true" 
-    height="160"
-  />
-
-  <!-- Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast&hide_border=true" 
-    height="160"
-  />
-</p>
-
-<!-- Languages Card (Aligned Left / Dark Theme) -->
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast&hide_border=true" 
-    height="150"
-  />
-</p>
-
----
-
-## ✨ Self-Learning Journey  
-- No formal CS background  
-- Learning through projects, documentation, notebooks, and mistakes  
-- Exploring tools that solve real problems  
-
----
+<!-- ======================= DARK FUTURISTIC BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Data%20Science%20Learner%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=20" />
+</p>
+
+---
+
+<div align="center">
+
+# 👋 Hey, I'm **Shanzay**
+
+**Self-Taught Data Science Learner • Machine Learning Enthusiast**
+
+Learning through hands-on projects, real datasets, and continuous improvement.  
+Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
+
+</div>
+
+---
+
+# 🔍 What I Do
+- **Data Cleaning & EDA:** Transforming raw data into clear insights  
+- **Machine Learning:** Building & evaluating predictive models  
+- **Visualization:** Structured charts & dashboards  
+- **End-to-End Projects:** From problem → EDA → modeling → insights  
+- **Self-Learning:** Advancing skills through practice & consistency  
+
+---
+
+# 🛠️ Toolbox (Expanded Icons Only)
+
+### **Programming**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react" />
+</p>
+
+### **Data, ML & Analytics**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### **Visualization & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tableau,jupyter,vscode,git,github" />
+</p>
+
+---
+
+# 📊 Technical Skills
+
+### **Data Analytics & Statistics**
+- Exploratory Data Analysis  
+- Data Cleaning & Wrangling  
+- Hypothesis Testing  
+- Regression Models  
+
+### **Machine Learning**
+- Classification & Regression  
+- Tree-Based Models  
+- Feature Engineering  
+- Model Evaluation (Accuracy, F1, ROC, etc.)  
+
+### **Core Strengths**
+- Self-Learning Discipline  
+- Breaking Down Concepts Clearly  
+- Clean, Reproducible Code  
+- Interpretation & Insight Building  
+
+---
+
+# 🎓 Certifications
+
+### **Google Advanced Data Analytics**
+- ML • Predictive Modeling • Python • Statistics  
+
+### **Google Data Analytics**
+- SQL • R • Data Cleaning • Visualization  
+
+### **Additional**
+- Deloitte Data Analytics Job Simulation  
+- Microsoft Productivity Certification  
+- Web Dev Basics (Git, VS Code)
+
+---
+
+# ⚡ Current Focus
+- ML portfolio projects  
+- Strengthening Python & SQL  
+- Learning Deep Learning basics  
+- Improving Tableau dashboards  
+- Practicing end-to-end workflows  
+
+---
+
+# 📈 GitHub Analytics (Dark Theme)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanekhan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanekhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanekhan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: **shanzaykhan3002@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/shanzaykhan-/**  
+
+---
+
+<p align="center">
+⭐ Always learning. Always improving. Always building.
 </p>
