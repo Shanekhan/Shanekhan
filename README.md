@@ -83,8 +83,7 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 - SQL • R • Data Cleaning • Visualization  
 
 ### **Additional**
-- Deloitte Data Analytics Job Simulation  
-- Microsoft Productivity Certification  
+- Deloitte Data Analytics Job Simulation   
 - Web Dev Basics (Git, VS Code)
 
 ---
@@ -97,17 +96,19 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 - Practicing end-to-end workflows  
 
 ---
-
 # 📈 GitHub Analytics (Dark Theme)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanekhan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=shan-e-khan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanekhan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan-e-khan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanekhan&theme=tokyonight&hide_border=true" />
+  <img height="160" 
+       src="https://streak-stats.demolab.com?user=shan-e-khan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
