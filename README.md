@@ -41,9 +41,9 @@ I combine Python-based reproducible workflows with statistical and machine learn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-Learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/statsmodels/statsmodels-original.svg" width="40" height="40" alt="Statsmodels" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" width="40" height="40" alt="ML" />
 </p>
 
 ### **Databases**
@@ -54,11 +54,11 @@ I combine Python-based reproducible workflows with statistical and machine learn
 
 ### **Visualization & Tools**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="GitHub" />
 </p>
 
 ---
