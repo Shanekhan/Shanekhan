@@ -1,7 +1,6 @@
 <!-- ======================= DARK FUTURISTIC BANNER ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Data%20Science%20Learner%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1155cc&height=220&section=header&text=Shanzay%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Data%20Science%20Learner%20%7C%20Public%20Health%20Analytics&descAlignY=60&descSize=20" />
 </p>
 
 ---
@@ -10,43 +9,41 @@
 
 # 👋 Hey, I'm **Shanzay**
 
-**Self-Taught Data Science Learner • Machine Learning Enthusiast**
+**Self-Taught Data Science Learner • Public Health & Clinical Data Analyst**
 
-Learning through hands-on projects, real datasets, and continuous improvement.  
-Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
+I develop actionable insights from clinical and epidemiological datasets, focusing on **maternal health, risk stratification, and community health analytics**.  
+I combine Python-based reproducible workflows with statistical and machine learning approaches for public health research.
 
 </div>
 
 ---
 
 # 🔍 What I Do
-- **Data Cleaning & EDA:** Transforming raw data into clear insights  
-- **Machine Learning:** Building & evaluating predictive models  
-- **Visualization:** Structured charts & dashboards  
-- **End-to-End Projects:** From problem → EDA → modeling → insights  
-- **Self-Learning:** Advancing skills through practice & consistency  
+- **Data Cleaning & EDA:** Transform raw clinical and survey data into actionable insights  
+- **Epidemiological & Clinical Modelling:** Risk stratification, outcome prediction, and disease-stage analysis  
+- **Visualization:** Structured dashboards and charts for publications and reports  
+- **End-to-End Research Projects:** From data acquisition → cleaning → analysis → interpretation → insights  
+- **Self-Learning:** Continuous skill growth through real datasets and public health projects  
 
 ---
 
-# 🛠️ Toolbox (All Icons Reliable)
+# 🛠️ Toolbox
 
 ### **Programming & Web**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 </p>
 
 ### **Data, ML & Analytics**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-Learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/statsmodels/statsmodels-original.svg" width="40" height="40" alt="Statsmodels" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
 </p>
 
 ### **Databases**
@@ -69,58 +66,56 @@ Focused on **ML, EDA, Python, SQL, and building strong portfolio projects**.
 # 📊 Technical Skills
 
 ### **Data Analytics & Statistics**
-- Exploratory Data Analysis  
+- Exploratory Data Analysis (EDA)  
 - Data Cleaning & Wrangling  
-- Hypothesis Testing  
-- Regression Models  
+- Hypothesis Testing & Risk Factor Analysis  
+- Regression Models (Linear, Logistic, Cox)  
 
 ### **Machine Learning**
 - Classification & Regression  
-- Tree-Based Models  
-- Feature Engineering  
-- Model Evaluation (Accuracy, F1, ROC, etc.)  
+- Tree-Based & Ensemble Models  
+- Feature Engineering & Selection  
+- Model Evaluation (Accuracy, F1, ROC, AUC)  
 
 ### **Core Strengths**
 - Self-Learning Discipline  
-- Breaking Down Concepts Clearly  
-- Clean, Reproducible Code  
-- Interpretation & Insight Building  
+- Clear Conceptual Breakdown  
+- Reproducible & Clean Code  
+- Translating Analysis into Public Health Insights  
 
 ---
 
 # 🎓 Certifications
 
 ### **Google Advanced Data Analytics**
-- ML • Predictive Modeling • Python • Statistics  
+- ML • Predictive Modelling • Python • Statistics  
 
 ### **Google Data Analytics**
 - SQL • R • Data Cleaning • Visualization  
 
 ### **Additional**
-- Deloitte Data Analytics Job Simulation   
+- Deloitte Data Analytics Job Simulation  
 - Web Dev Basics (Git, VS Code)
 
 ---
 
 # ⚡ Current Focus
-- ML portfolio projects  
-- Strengthening Python & SQL  
-- Learning Deep Learning basics  
-- Improving Tableau dashboards  
-- Practicing end-to-end workflows  
-
-
-
+- Public Health & Maternal Health ML Projects  
+- Strengthening Python, R & SQL Skills  
+- Learning Deep Learning for Healthcare Data  
+- Improving Tableau Dashboards for Epidemiology  
+- Practicing End-to-End Research Workflows  
 
 ---
 
 # 🤝 Connect With Me
 
 📧 Email: **shanzaykhan3002@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/shanzaykhan-/**  
+🔗 LinkedIn: **[https://www.linkedin.com/in/shanzaykhan-/](https://www.linkedin.com/in/shanzaykhan-/)**  
+💻 GitHub: **[Your GitHub link]**  
 
 ---
 
 <p align="center">
-⭐ Always learning. Always improving. Always building.
+⭐ Always learning. Always improving. Always building for public health impact.
 </p>
