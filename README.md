@@ -7,14 +7,16 @@
 
 <div align="center">
 
-# 👋 Hey, I'm **Shanzay**
+# 👋 Hi, I'm Shanzay
 
-**Self-Taught Data Science Learner • Public Health & Clinical Data Analyst**
+**Health Data Analyst | Public Health & Clinical Analytics**
 
-I develop actionable insights from clinical and epidemiological datasets, focusing on **maternal health, risk stratification, and community health analytics**.  
-I combine Python-based reproducible workflows with statistical and machine learning approaches for public health research.
+I work with real-world healthcare and epidemiological data to extract actionable insights that support clinical decision-making and public health strategy.
+
+My work focuses on **risk stratification, disease modeling, and population health analysis**, using reproducible data science workflows.
 
 </div>
+
 
 ---
 
@@ -112,7 +114,6 @@ I combine Python-based reproducible workflows with statistical and machine learn
 
 📧 Email: **shanzaykhan3002@gmail.com**  
 🔗 LinkedIn: **[https://www.linkedin.com/in/shanzaykhan-/](https://www.linkedin.com/in/shanzaykhan-/)**  
-💻 GitHub: **[Your GitHub link]**  
 
 ---
 
